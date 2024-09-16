@@ -1,8 +1,5 @@
 <div align="center">
 <p align='center'>
-    <a href="http://43.200.255.34/swagger-ui/index.html">
-     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/>
-  </a> | 
 
 <a href="https://lemon-postbox-fd8.notion.site/5d30c0f3ef4e45ac94b274bebef4895b?pvs=4">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
